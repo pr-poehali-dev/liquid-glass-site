@@ -99,7 +99,7 @@ const Index = () => {
                 ИИ
               </div>
               <div className="text-right">
-                <p className="text-sm font-semibold text-gray-800">Иван Иванов</p>
+                <p className="text-sm font-semibold text-gray-800">_______________</p>
                 <p className="text-xs text-gray-500">Админисрация</p>
               </div>
             </div>
