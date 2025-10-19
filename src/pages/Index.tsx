@@ -42,7 +42,7 @@ const Index = () => {
       id: 4,
       title: 'Работа с НПА',
       icon: 'Search',
-      description: 'Интеграция с базами правовых актов',
+      description: 'Связь документов с локальными и иными НПА',
       color: 'from-teal-400/20 to-green-400/20',
     },
     {
