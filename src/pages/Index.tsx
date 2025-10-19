@@ -28,7 +28,7 @@ const Index = () => {
       id: 2,
       title: 'Перекрёстное сравнение документов',
       icon: 'Grid3x3',
-      description: 'Анализ различий между версиями',
+      description: 'Проверка по задаваемым критериям',
       color: 'from-blue-400/20 to-cyan-400/20',
     },
     {
