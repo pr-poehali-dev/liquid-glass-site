@@ -21,7 +21,7 @@ const Index = () => {
       id: 1,
       title: 'Личный секретарь',
       icon: 'BookOpen',
-      description: 'Загрузка и контрольные вопросы для ИИ-модели',
+      description: 'Дообучение персональной ИИ-модели',
       color: 'from-purple-400/20 to-blue-400/20',
     },
     {
