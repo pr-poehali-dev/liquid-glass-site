@@ -89,9 +89,20 @@ const Index = () => {
 
       <main className="flex-1 p-8 overflow-auto">
         <div className="max-w-7xl mx-auto space-y-8">
-          <header className="animate-fade-in">
-            <h1 className="text-4xl font-bold text-gray-800 mb-2">ИИ-АРМ госслужащего</h1>
-            <p className="text-gray-600">Полное покрытие всех рабочих процессов</p>
+          <header className="animate-fade-in flex items-start justify-between">
+            <div>
+              <h1 className="text-4xl font-bold text-gray-800 mb-2">ИИ-АРМ госслужащего</h1>
+              <p className="text-gray-600">Полное покрытие всех рабочих процессов</p>
+            </div>
+            <div className="flex items-center gap-3 bg-white/40 backdrop-blur-xl px-5 py-3 rounded-full border border-white/60 shadow-lg hover:bg-white/50 transition-all cursor-pointer">
+              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-purple-400 to-blue-500 flex items-center justify-center text-white font-semibold text-sm shadow-md">
+                ИИ
+              </div>
+              <div className="text-right">
+                <p className="text-sm font-semibold text-gray-800">Иван Иванов</p>
+                <p className="text-xs text-gray-500">Специалист</p>
+              </div>
+            </div>
           </header>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
