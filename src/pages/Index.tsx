@@ -21,7 +21,7 @@ const Index = () => {
       id: 1,
       title: 'Добавление новых знаний',
       icon: 'BookOpen',
-      description: 'Загрузка и индексация документов',
+      description: 'Загрузка и контрольные вопросы для ИИ-модели',
       color: 'from-purple-400/20 to-blue-400/20',
     },
     {
