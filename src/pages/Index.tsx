@@ -118,7 +118,7 @@ const Index = () => {
                 <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-400/20 to-blue-400/20 flex items-center justify-center">
                   <Icon name="History" size={20} className="text-primary" />
                 </div>
-                <h2 className="text-2xl font-semibold text-gray-800">Мои работы</h2>
+                <h2 className="text-2xl font-semibold text-gray-800">Мои поручения</h2>
               </div>
               <div className="space-y-3">
                 {recentWorks.map((work, index) => (
