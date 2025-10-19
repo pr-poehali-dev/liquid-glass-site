@@ -90,7 +90,7 @@ const Index = () => {
       <main className="flex-1 p-8 overflow-auto">
         <div className="max-w-7xl mx-auto space-y-8">
           <header className="animate-fade-in">
-            <h1 className="text-4xl font-bold text-gray-800 mb-2">Платофрмы цифровых ассистентов госслужащего</h1>
+            <h1 className="text-4xl font-bold text-gray-800 mb-2">ИИ-АРМ госслужащего</h1>
             <p className="text-gray-600">Полное покрытие всех рабочих процессов</p>
           </header>
 
